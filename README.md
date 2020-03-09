@@ -1,3 +1,5 @@
+# cocos 预设
+
 ### 使用方法：
 1. 导入资源 => 选择 preset.zip => 导入到新项目中。
 2. 复制 src 文件夹，至 cocos 项目 assets 文件夹下。
